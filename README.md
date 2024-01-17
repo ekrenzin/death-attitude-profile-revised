@@ -4,6 +4,9 @@ This github repo is used to create a very simple website for the DAP-R questiona
 
 All credit goes to the creators of the questionaire: Wong, P.T.P., Reker, G.T., & Gesser, G.
 
+## Link to deployed website:
+https://death-attitude-profile-revised.pages.dev/
+
 
 ## Questionaire: 
 This questionnaire contains a number of statements related to different attitudes toward death. Read each statement carefully, and then decide the extent to which you agree or disagree. For example, an item might read: “Death is a friend.” Indicate how well you agree or disagree by circling one of the following: SA = strongly agree; A= agree; MA= moderately agree; U= undecided; MD= moderately disagree; D=disagree; SD= strongly disagree. Note that the scales run both from strongly agree to strongly disagree and from strongly disagree to strongly agree.
